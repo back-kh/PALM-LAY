@@ -110,4 +110,34 @@ Experiments:
 </p>
 
 ---
+🙏 Acknowledgements
+
+Manuscript collections sourced from India, Cambodia, and Indonesia under open Creative Commons licenses.
+
+Annotation team included students and researchers from Cambodia, China, and Indonesia.
+
+**Funding Support:** The World Academy of Sciences (Italy), Chinese Academy of Sciences (China), One-to-Many Research (Cambodia), and the National Natural Science Foundation of China.
+
+
+🔗 References
+Nair, B.B., Rani, N.S. (2023). *HMPLMD: Handwritten Malayalam palm leaf manuscript dataset.
+Jailingeswari, I., Gopinathan, S. (2024). *Tamil handwritten palm leaf manuscript dataset (TH-PLMD). 
+Valy, D., Verleysen, M., Chhun, S., Burie, J.C. (2017). *A new Khmer palm leaf manuscript dataset for document analysis and recognition: Sleukrith Set.
+Suryani, M., Paulus, E., Hadi, S., Darsa, U.A., Burie, J.C. (2017). *The handwritten Sundanese palm leaf manuscript dataset from 15th century.*
+Kesiman, M.W.A., Burie, J.C., Wibawantara, G.N.M.A., Sunarya, I.M.G., Ogier, J.M. (2016). *AMADI_LontarSet: The first handwritten Balinese palm leaf manuscripts dataset.
+Kesiman, M.W.A., Valy, D., Burie, J.C., Paulus, E., Suryani, M., Hadi, S., Verleysen, M., Chhun, S., Ogier, J.M. (2018). *ICFHR 2018 competition on document image analysis tasks for Southeast Asian palm leaf manuscripts.
+
+## 📚 Citation
+
+If you find **PALM-LAY** interesting and useful for your research, please cite:
+
+```bibtex
+@inproceedings{thuon2025palmlay,
+  title     = {PALM-LAY: A Multi-Script Cross-Regional Dataset for Layout Analysis of Palm Leaf Manuscripts},
+  author    = {Thuon, Nimol and Du, Jun and Theang, Panhapin and Thuon, Ratana},
+  booktitle = {Proceedings of the International Conference on Document Analysis and Recognition (ICDAR)},
+  year      = {2025},
+  publisher = {IEEE},
+  pages     = {to appear}
+}
 
