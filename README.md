@@ -137,7 +137,6 @@ If you find **PALM-LAY** interesting and useful for your research, please cite:
   author    = {Thuon, Nimol and Du, Jun and Theang, Panhapin and Thuon, Ratana},
   booktitle = {Proceedings of the International Conference on Document Analysis and Recognition (ICDAR)},
   year      = {2025},
-  publisher = {IEEE},
-  pages     = {to appear}
+  publisher = {Springer},
 }
 
