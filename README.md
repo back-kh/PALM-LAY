@@ -91,8 +91,7 @@ Each image is annotated using **seven consistent region categories**:
 
 ## ⚙️ Benchmarking Experiments
 
-We evaluated **YOLOv8, YOLOv9, YOLOv11, DETR, and RF-DETR** on PALM-LAY.  
-Experiments considered:
+Experiments:
 
 1. **Script-specific performance** – trained & tested per script.  
 2. **Cross-script generalization** – trained on combined dataset, tested across all scripts.
@@ -111,11 +110,4 @@ Experiments considered:
 </p>
 
 ---
-
-## 🚀 Usage
-
-### 1. Clone Repository
-```bash
-git clone https://github.com/back-kh/PALM-LAY.git
-cd PALM-LAY
 
