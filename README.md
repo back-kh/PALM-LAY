@@ -110,7 +110,7 @@ Experiments:
 </p>
 
 ---
-🙏 Acknowledgements
+## 🙏 Acknowledgements
 
 Manuscript collections sourced from **India, Cambodia and Indonesia** under open Creative Commons licenses.
 
@@ -119,7 +119,7 @@ Annotation team included students and researchers from **Cambodia, China, and In
 **Funding Support:** The World Academy of Sciences (Italy), Chinese Academy of Sciences (China), One-to-Many Research (Cambodia), and the National Natural Science Foundation of China (China).
 
 
-🔗 References
+## 🔗 References
 Nair, B.B., Rani, N.S. (2023). *HMPLMD: Handwritten Malayalam palm leaf manuscript dataset.
 Jailingeswari, I., Gopinathan, S. (2024). *Tamil handwritten palm leaf manuscript dataset (TH-PLMD). 
 Valy, D., Verleysen, M., Chhun, S., Burie, J.C. (2017). *A new Khmer palm leaf manuscript dataset for document analysis and recognition: Sleukrith Set.
