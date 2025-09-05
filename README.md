@@ -78,10 +78,6 @@ Each image is annotated using **seven consistent region categories**:
 | Sundanese         | 61    | 49    | 12   |
 | **Total**         | **566** | **453** | **113** |
 
-- **Total regions annotated:** 6,334  
-- **Illustrations:** concentrated in Balinese and Tamil subsets  
-- **PhysicalDamage:** consistently present across all collections  
-
 <p align="center">
   <img src="figures/fig3_annotation_workflow.png" width="80%"><br>
   <em>Fig. 3 – Annotation workflow and quality control pipeline.</em>
