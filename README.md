@@ -108,9 +108,9 @@ Experiments:
   <img src="figures/fig4_detection_results.png" width="80%"><br>
   <em>Fig. 4 – Sample detection outputs on different scripts.</em>
 </p>
-# 🚀 Quick Sample Introduction
+##  🚀 Quick Sample Introduction
 
-## 1. Install dependencies
+### 1. Install dependencies
 ```bash
 pip install -r requirements.txt
 
@@ -123,7 +123,7 @@ python main.py train-detr --epochs 100 --batch 4
 # RF-DETR (external repo required)
 python main.py train-rfdetr \
   CONFIG=configs/rf_detr.py
-
+```
 ## 🙏 Acknowledgements
 
 Manuscript collections sourced from **India, Cambodia and Indonesia** under open Creative Commons licenses.
