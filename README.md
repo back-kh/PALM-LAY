@@ -121,12 +121,12 @@ python main.py train-rfdetr \
 ```
 ## 🙏 Acknowledgements
 
-- `Manuscript collections sourced from **India, Cambodia and Indonesia** under open Creative Commons licenses`.
+`Manuscript collections sourced from **India, Cambodia and Indonesia** under open Creative Commons licenses`.
 
-- `The annotation team included students and researchers from **Cambodia, China, and Indonesia**`.
+`The annotation team included students and researchers from **Cambodia, China, and Indonesia**`.
 
-- `**Funding Support:** This is part of the **PALM-WORLD project** is supported by **The World Academy of Sciences (Italy), the Chinese Academy of Sciences (China), One-to-Many Research (Cambodia), and the National Natural Science Foundation of China (China)**.`
-- `**Leading Project By**: Nimol Thuon`
+`**Funding Support:** This is part of the **PALM-WORLD project** is supported by **The World Academy of Sciences (Italy), the Chinese Academy of Sciences (China), One-to-Many Research (Cambodia), and the National Natural Science Foundation of China (China)**.`
+`**Leading Project By**: Nimol Thuon`
 
 ## 🔗 References
 Nair, B.B., Rani, N.S. (2023). *HMPLMD: Handwritten Malayalam palm leaf manuscript dataset.
