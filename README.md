@@ -108,9 +108,8 @@ Experiments:
   <img src="figures/fig4_detection_results.png" width="80%"><br>
   <em>Fig. 4 – Sample detection outputs on different scripts.</em>
 </p>
-##  🚀 Quick Sample Introduction
 
-### 1. Install dependencies
+### Quick Sample Run
 ```bash
 pip install -r requirements.txt
 
