@@ -108,8 +108,22 @@ Experiments:
   <img src="figures/fig4_detection_results.png" width="80%"><br>
   <em>Fig. 4 – Sample detection outputs on different scripts.</em>
 </p>
+# 🚀 Quick Sample Introduction
 
----
+## 1. Install dependencies
+```bash
+pip install -r requirements.txt
+
+# YOLOv8 / YOLOv9 / YOLOv11
+python main.py train-yolo* --weights yolov**.pt --epochs 100
+
+# DETR
+python main.py train-detr --epochs 100 --batch 4
+
+# RF-DETR (external repo required)
+python main.py train-rfdetr \
+  CONFIG=configs/rf_detr.py
+
 ## 🙏 Acknowledgements
 
 Manuscript collections sourced from **India, Cambodia and Indonesia** under open Creative Commons licenses.
@@ -117,8 +131,6 @@ Manuscript collections sourced from **India, Cambodia and Indonesia** under open
 Annotation team included students and researchers from **Cambodia, China, and Indonesia**.
 
 **Funding Support:** This is part of the **PALM-WORLD project** is supported by **The World Academy of Sciences (Italy), the Chinese Academy of Sciences (China), One-to-Many Research (Cambodia), and the National Natural Science Foundation of China (China)**.
-
-
 
 
 ## 🔗 References
