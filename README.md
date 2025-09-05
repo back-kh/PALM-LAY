@@ -1,6 +1,6 @@
 # PALM-LAY: A Multi-Script Cross-Regional Dataset for Layout Analysis of Palm Leaf Manuscripts
 
-[![Paper DOI](https://img.shields.io/badge/Paper-ICDAR_2025-blue)](link-to-paper)
+[![Paper DOI](https://img.shields.io/badge/Paper-ICDAR_DALL_2025-blue)](link-to-paper)
 [![Dataset License](https://img.shields.io/badge/License-CC_BY--NC--SA_4.0-green.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 ---
