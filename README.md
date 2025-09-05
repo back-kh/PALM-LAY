@@ -116,7 +116,9 @@ Manuscript collections sourced from **India, Cambodia and Indonesia** under open
 
 Annotation team included students and researchers from **Cambodia, China, and Indonesia**.
 
-**Funding Support:** The World Academy of Sciences (Italy), Chinese Academy of Sciences (China), One-to-Many Research (Cambodia), and the National Natural Science Foundation of China (China).
+**Funding Support:** This is part of the **PALM-WORLD project** is supported by **The World Academy of Sciences (Italy), the Chinese Academy of Sciences (China), One-to-Many Research (Cambodia), and the National Natural Science Foundation of China (China)**.
+
+
 
 
 ## 🔗 References
