@@ -17,7 +17,7 @@ python main.py train-yolo --model yolov11s.pt
 python main.py train-yolo10 --weights yolov10n.pt
 
 # Train DETR
-python main.py train-detr --epochs 50 --batch 4
+python main.py train-detr --epochs 100 --batch 4
 
 # Evaluate COCO (for DETR/RF-DETR)
 python main.py eval-coco --gt coco/val.json --pred runs_detr/preds.json
@@ -96,3 +96,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
