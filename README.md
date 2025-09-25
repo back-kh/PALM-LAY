@@ -36,7 +36,7 @@ The dataset spans **six palm leaf traditions** from South and Southeast Asia:
 - **Kambaramayanam** (India) – Tamil epic manuscripts  
 - **Khmer** (Cambodia) – Sleukrith and archive collections  
 - **Sundanese** (Indonesia, Java) – 15th century manuscripts  
-- **Balinese** (Indonesia, Bali) – ornate Balinese Lontar collections  
+- **Balinese** (Indonesia, Bali) – Balinese Lontar collections  
 
 <p align="center">
   <img src="figures/fig1_examples.png" width="80%"><br>
